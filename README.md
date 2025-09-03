@@ -44,5 +44,5 @@ Ambos juegos están diseñados para enseñarte de manera divertida y práctica e
 
 ## Evidencias de que los juegos fueron terminados
 
-![Ver todas las capturas](https://ibb.co/9mFpHY3V)
-![Ver todas las capturas](https://ibb.co/5WnWyskW)
+![Ver todas las capturas](https://i.ibb.co/XfhWxJk3/Final-zombies.png)
+![Ver todas las capturas](https://i.ibb.co/ccCcH2wc/Final.png)

@@ -1,3 +1,5 @@
+## Autor: Kevin Santiago Sierra León
+
 # 🎮 Practica CSS con Juegos
 
 Este repositorio contiene dos juegos interactivos diseñados para ayudarte a aprender y practicar **CSS Flexbox**. A través de estos juegos, mejorarás tus habilidades de diseño web de una manera divertida y desafiante. 🖥️🎉
@@ -42,5 +44,5 @@ Ambos juegos están diseñados para enseñarte de manera divertida y práctica e
 
 ## Evidencias de que los juegos fueron terminados
 
-https://ibb.co/9mFpHY3V
-https://ibb.co/5WnWyskW
+[Ver todas las capturas](https://ibb.co/9mFpHY3V)
+[Ver todas las capturas](https://ibb.co/5WnWyskW)
